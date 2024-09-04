@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: yp6lithlr-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/yp6lithlr-java-springboot
